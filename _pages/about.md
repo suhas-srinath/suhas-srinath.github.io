@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Suhas. Welcome to my webpage!
 
-About me
+
+Hi, I'm Suhas
 ======
-I'm someone doing something.
+Website still under development. 
