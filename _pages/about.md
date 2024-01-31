@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Suhas Srinath's Webpage"
+title: "Hi, I'm Suhas"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,4 @@ redirect_from:
 ---
 
 
-Hi, I'm Suhas
-======
 Website still under development. 
