@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Suhas Srinath's Webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Suhas Srinath - Homepage"
 description              : &description "personal description"
 url                      : https://suhas-srinath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Suhas Srinath"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph. D Student, Indian Institute of Science"
+  location         : "Bengaluru, India"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "suhas-srinath"
   google_plus      :
   keybase          :
   instagram        :
