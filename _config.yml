@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Suhas Srinath"
-  avatar           : "/images/profile.jpg"
+  avatar           : "/profile.jpg"
   bio              : "Ph. D Student, Indian Institute of Science"
   location         : "Bengaluru, India"
   employer         :
