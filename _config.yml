@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Suhas Srinath"
-  avatar           : "files/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Ph. D Student, Indian Institute of Science"
   location         : "Bengaluru, India"
   employer         :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/suhas-srinath"
+  github           : "suhas-srinath"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/suhas-srinath-266253153/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-4152-4247"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
