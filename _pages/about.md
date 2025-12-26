@@ -29,4 +29,7 @@ My research has been published at top venues including **WACV (Oral - Top 3%)**,
 - Physics-informed ML
 
 ### News 
-- **Nov 30, 2025** Submitted my PhD thesis 
+- **Dec 02, 2025** Submitted my PhD thesis titled "From Seen to Unseen: Self-supervised Learning for Domain Generalization in Computer Vision Applications"
+- **Nov 26, 2025** Completed my PhD colloquium at the Department of ECE, IISc
+- **Nov 22, 2025** WACV paper acceptance - "MANTA: Physics-inspired Generalized Underwater Object Tracking" 
+
