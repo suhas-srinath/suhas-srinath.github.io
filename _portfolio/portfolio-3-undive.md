@@ -57,9 +57,9 @@ UnDIVE addresses the critical challenge of enhancing underwater video quality wh
 - Domain adaptation techniques
 
 **Links**
-- Paper (to be available at WACV 2025)
-- Code (to be released)
+- [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Srinath_UnDIVE_Generalized_Underwater_Video_Enhancement_using_Generative_Priors_WACV_2025_paper.pdf)
+- [Code] (https://github.com/suhas-srinath/undive)
 
-**Technologies:** PyTorch, Diffusion Models, Generative Modeling, Video Processing, Physics-Informed ML
+**Tools:** PyTorch, Diffusion Models, Generative Modeling, Video Processing, Physics-Informed ML
 
 **Status:** Published at WACV 2025

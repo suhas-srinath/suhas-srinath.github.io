@@ -74,7 +74,7 @@ Enables practical deployment of virtual try-on systems that can:
 - Paper (under review at ICLR 2026)
 - Code (to be released upon acceptance)
 
-**Technologies:** PyTorch, Diffusion Models, Test-Time Adaptation, Generative AI, Domain Adaptation
+**Tools:** PyTorch, Diffusion Models, Test-Time Adaptation, Generative AI, Domain Adaptation
 
 **Status:** Under review at ICLR 2026
 

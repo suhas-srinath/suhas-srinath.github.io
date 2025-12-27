@@ -34,7 +34,7 @@ Introduced two new metrics to complement standard IoU:
 
 - Physics-informed data augmentation based on underwater light propagation models
 - Contrastive learning framework tailored for underwater scenarios
-- Multi-stage association algorithm for robust tracking
+- Multi-stage feature-based association algorithm for robust tracking
 - Generalization across diverse water types and visibility conditions
 
 **Benchmark Performance**
@@ -43,7 +43,7 @@ Achieved state-of-the-art results on multiple underwater tracking datasets:
 - **WebUOT-1M:** Large-scale underwater object tracking benchmark
 - **UOT32:** 32 diverse underwater sequences
 - **UTB180:** 180 challenging underwater scenarios
-- **UWCOT220:** 220 underwater tracking sequences
+- **UWCOT220:** 220 underwater camouflaged-object tracking sequences
 
 **Applications**
 
@@ -56,6 +56,6 @@ Achieved state-of-the-art results on multiple underwater tracking datasets:
 - [Paper (arXiv)](https://arxiv.org/abs/2511.23405)
 - Code (to be released upon publication)
 
-**Technologies:** PyTorch, Beer-Lambert Law, Contrastive Learning, Object Tracking (YOLO, DETR), Physics-Informed ML
+**Tools:** PyTorch, Beer-Lambert Law, Contrastive Learning, Object Tracking (YOLO, DETR), Physics-Informed ML
 
-**Status:** Under review at WACV 2026
+**Status:** Accepted to WACV 2026

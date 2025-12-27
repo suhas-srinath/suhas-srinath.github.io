@@ -22,4 +22,6 @@ This paper presents MANTA, a physics-informed framework for underwater object tr
 
 [Download paper here](https://arxiv.org/abs/2511.23405)
 
+[Code] (Coming soon)
+
 Recommended citation: Srinath, S., Jamadagni, H., Chandrasekar, A., and Prathosh, A.P. (2025). "MANTA: Physics-Informed Generalized Underwater Object Tracking." *arXiv preprint arXiv:2511.23405*.

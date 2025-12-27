@@ -103,6 +103,6 @@ The framework naturally extends to:
 - Cross-domain transfer learning
 - Real-time adaptation systems
 
-**Technologies:** PyTorch, Diffusion Models, CLIP, Contrastive Learning, Physics-Informed ML, Test-Time Adaptation
+**Tools:** PyTorch, Diffusion Models, CLIP, Contrastive Learning, Physics-Informed ML, Test-Time Adaptation
 
 **Status:** Thesis submitted December 2025 | Colloquium completed November 2025

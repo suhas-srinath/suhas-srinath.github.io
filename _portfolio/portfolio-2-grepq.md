@@ -48,4 +48,4 @@ GRepQ enables practical deployment of quality assessment systems in scenarios wh
 - [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Srinath_Learning_Generalizable_Perceptual_Representations_for_Data-Efficient_No-Reference_Image_Quality_Assessment_WACV_2024_paper.pdf)
 - [Code](https://github.com/suhas-srinath/GRepQ)
 
-**Technologies:** PyTorch, CLIP, Contrastive Learning, Self-supervised Learning
+**Tools:** PyTorch, CLIP, Contrastive Learning, Self-supervised Learning

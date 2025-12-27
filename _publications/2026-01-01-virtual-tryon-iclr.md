@@ -20,5 +20,5 @@ This paper presents a novel framework for source-free test-time adaptation in di
 - Robust performance across domain shifts without accessing source domain data
 - Novel adaptation techniques tailored for generative virtual try-on systems
 
-[Paper will be available upon publication]
+[Paper and codebase will be available upon publication]
 

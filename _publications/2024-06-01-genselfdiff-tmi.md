@@ -18,6 +18,8 @@ This paper presents GenSelfDiff-HIS, a framework that leverages generative self-
 - Self-supervised learning approach reducing dependency on large annotated datasets
 - Domain generalization capabilities for histopathological image analysis
 
-[Paper URL will be updated upon publication]
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10663482)
+
+[Code](https://github.com/suhas-srinath/GenSelfDiff-HIS)
 
 Recommended citation: Purma, V., Srinath, S., Srirangarajan, S., Kakkar, A., and Prathosh, A.P. (2024). "GenSelfDiff-HIS: Generative Self-Supervision Using Diffusion for Histopathological Image Segmentation." *IEEE Transactions on Medical Imaging*.

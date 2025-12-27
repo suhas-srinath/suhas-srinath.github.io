@@ -17,6 +17,8 @@ This paper presents UnDIVE, a framework for generalized underwater video enhance
 - Robust performance across varying water conditions and depths
 - Physics-informed approach to underwater image restoration
 
-[Paper URL will be available upon publication]
+[Download paper here](https://openaccess.thecvf.com/content/WACV2025/papers/Srinath_UnDIVE_Generalized_Underwater_Video_Enhancement_using_Generative_Priors_WACV_2025_paper.pdf)
+
+[Code](https://github.com/suhas-srinath/undive)
 
 Recommended citation: Srinath, S., Chandrasekar, A., Jamadagni, H., Soundararajan, R., and Prathosh, A.P. (2025). "UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors." *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
