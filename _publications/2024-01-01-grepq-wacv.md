@@ -6,8 +6,8 @@ excerpt: 'Novel quality-aware contrastive learning for low-level features and gr
 date: 2024-01-01
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 slidesurl: ''
-paperurl: 'https://openaccess.thecvf.com/content/WACV2024/papers/Srinath_Learning_Generalizable_Perceptual_Representations_for_Data-Efficient_No-Reference_Image_Quality_Assessment_WACV_2024_paper.pdf'
-citation: 'Srinath, S., Mitra, S., Rao, S., and Soundararajan, R. (2024). &quot;Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment.&quot; <i>Proc. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</i>. pp. 22-31.'
+paperurl: ''
+citation: ''
 ---
 
 **Oral Presentation (Top 3% of accepted papers)**
