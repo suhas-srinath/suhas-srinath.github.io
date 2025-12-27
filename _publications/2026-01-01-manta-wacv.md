@@ -7,6 +7,7 @@ date: 2026-01-01
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026'
 slidesurl: ''
 paperurl: ''
+citation: 'Srinath, S., Jamadagni, H., Chandrasekar, A., and Prathosh, A.P. (2025). "MANTA: Physics-Informed Generalized Underwater Object Tracking." *arXiv preprint arXiv:2511.23405*.'
 ---
 
 **Accepted to WACV 2026**

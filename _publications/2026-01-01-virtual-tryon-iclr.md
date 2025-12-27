@@ -7,6 +7,7 @@ date: 2026-01-01
 venue: 'Under Review - International Conference on Learning Representations (ICLR) 2026'
 slidesurl: ''
 paperurl: ''
+citation: 'Yet to be published'
 ---
 
 **Under Review at ICLR 2026**
@@ -19,5 +20,5 @@ This paper presents a novel framework for source-free test-time adaptation in di
 - Robust performance across domain shifts without accessing source domain data
 - Novel adaptation techniques tailored for generative virtual try-on systems
 
-[Paper and codebase will be available upon publication]
+[Paper and will be available upon publication]
 
