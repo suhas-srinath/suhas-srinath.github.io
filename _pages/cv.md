@@ -11,39 +11,41 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Electrical Communication Engineering**, Indian Institute of Science (IISc), Bengaluru, 2025
+* **Ph.D. in Electrical Communication Engineering**, Indian Institute of Science (IISc), Bengaluru, Aug 2019 - Dec 2025
   * Thesis: "From Seen to Unseen: Self-Supervised Learning for Domain Generalization in Computer Vision Applications"
-  * Advisor: Prof. Rajiv Soundararajan
-  * Submitted: December 2025 | Colloquium: November 2025
+  * Advisors: Prof. Rajiv Soundararajan (ECE) & Prof. Prathosh A. P. (ECE)
+  * Expected degree conferral: April 2026
   
-* **B.E. in Electronics and Communication Engineering**, [Your Undergraduate Institution], [Year]
+* **B.Tech in Electronics and Communication Engineering**, National Institute of Technology Karnataka (NITK), Surathkal, Aug 2013 - Apr 2017
+  * Thesis: Native Language Detection from English Speech
 
-Research Experience
+Work Experience
 ======
-* **PhD Researcher**, Indian Institute of Science, Bengaluru (2019-2025)
-  * Video Understanding and Analysis Laboratory
-  * Developed self-supervised learning frameworks for domain generalization across computer vision applications
-  * Research areas: Image quality assessment, underwater video enhancement, underwater object tracking, virtual try-on with test-time adaptation
-  * Published at WACV (2 papers, 1 oral presentation - Top 3%), IEEE Transactions on Medical Imaging, ICIP
-  * Advisor: Prof. Rajiv Soundararajan
+* **Project Assistant**, Spectrum Lab, Indian Institute of Science, Bengaluru, May 2017 - July 2019
+  * Electrical Engineering Department
+  * Developed novel sub-Nyquist sampling algorithms for SONAR imaging, enabling efficient signal reconstruction
+  * Published 2 papers on super-resolution techniques in underwater imaging at international conferences (ICIP 2020, ICONS 2018)
+
+* **Research Intern**, Indian Institute of Science, Bengaluru, May 2016 - July 2016
+  * Department of Electronic Systems Engineering
+  * Developed security protocols to protect single sign-on (SSO) websites from malicious network attacks
 
 Research Interests
 ======
-* Self-supervised learning and contrastive learning
-* Domain generalization and test-time adaptation
-* Diffusion models and generative modeling
-* Video understanding and multimodal AI
-* Physics-informed machine learning
-* Computer vision applications: underwater imaging, medical imaging, quality assessment
+* Test-time adaptation
+* Domain generalization
+* Self-supervised learning
+* Generative models
+* Physics-informed ML
+* Diffusion models
+* Efficient domain adaptation
+* Computer vision for challenging domains
 
 Technical Skills
 ======
-* **Deep Learning Frameworks**: PyTorch (primary), TensorFlow
-* **Computer Vision**: Object detection (YOLO, DETR), object tracking, image/video enhancement, quality assessment
-* **Machine Learning**: Self-supervised learning, contrastive learning, diffusion models, test-time adaptation
-* **Research Tools**: LaTeX, Git, Weights & Biases, Docker
-* **Programming**: Python (expert), MATLAB, C++
-* **Specialized**: Underwater computer vision, physics-informed augmentations, domain adaptation
+* **Languages**: Python, MATLAB, C++, C
+* **ML Frameworks**: PyTorch (primary), TensorFlow, Keras, Scikit-learn
+* **Developer Tools**: Git, LaTeX
 
 Publications
 ======
@@ -51,57 +53,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Selected Projects
+Selected Research Projects
 ======
-* **GRepQ: Generalizable Representations for Quality Assessment** (WACV 2025, Oral - Top 3%)
-  * Novel quality-aware contrastive learning for low-level features
-  * Group-contrastive CLIP fine-tuning for high-level quality features
-  * State-of-the-art performance in data-efficient and zero-shot IQA settings
-  * Datasets: CLIVE, KonIQ, CSIQ, LIVE, PIPAL
+* **Self-Supervised Image Quality Assessment (GRepQ)** - WACV 2024 (Oral - Top 3%)
+  * Created quality-aware representation learning framework achieving state-of-the-art data-efficient adaptation
+  * Framework enables efficient deployment without domain-specific fine-tuning
 
-* **MANTA: Physics-inspired Underwater Object Tracking** (WACV 2025)
-  * Physics-informed contrastive learning with Beer-Lambert law augmentations
-  * Novel evaluation metrics: Center-Scale Consistency and Geometric Alignment Score
-  * State-of-the-art results on WebUOT-1M, UOT32, UTB180, UWCOT220 benchmarks
+* **Physics-Informed Underwater Tracking (MANTA)** - WACV 2026 (Accepted)
+  * First physics-informed tracking approach using Beer-Lambert law for underwater object tracking
+  * Relevant for autonomous underwater vehicles and marine exploration applications
 
-* **UnDIVE: Underwater Video Enhancement**
-  * Physics-based underwater image enhancement systems
-  * Self-supervised learning for domain adaptation
+* **Underwater Video Enhancement via Diffusion (UnDIVE)** - WACV 2025 (Accepted)
+  * Leveraged latent diffusion models for generalized underwater video enhancement
+  * Demonstrated strong zero-shot generalization across diverse underwater scenarios (coral reefs, open ocean, turbid water)
+  * Deployed end-to-end video processing pipeline handling 30 FPS inference on 1080p videos
 
-* **Test-Time Adaptation for Virtual Try-On**
-  * Comprehensive baseline comparisons and evaluation frameworks
-  * Submitted to AAAI conference
-
-Academic Service
-======
-* **Peer Reviewer**:
-  * IEEE Journals (detailed reviews)
-  * AAAI Conference (comprehensive technical reviews)
-  
-* **Conference Presentations**:
-  * WACV 2025 - Oral presentation (Top 3% of accepted papers)
-
-Awards and Honors
-======
-* WACV 2025 Oral Presentation (Top 3% of accepted papers)
-* [Add any fellowships, scholarships, or other awards]
-
-Professional Activities
-======
-* Currently seeking full-time research positions in multimodal AI, video-language models, and generative models
-* Target areas: Generative AI research, computer vision, video understanding
-* Available to start immediately
+* **Virtual Try-On with Test-Time Adaptation** - Under Review, ICLR 2026
+  * Novel source-free test-time adaptation framework for diffusion-based virtual try-on models
+  * Achieved significant quality improvements without access to source training data
 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Languages
-======
-* English (Fluent)
-* [Add other languages as applicable]
 
 References
 ======
