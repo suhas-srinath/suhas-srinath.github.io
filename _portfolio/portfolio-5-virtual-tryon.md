@@ -78,4 +78,4 @@ Enables practical deployment of virtual try-on systems that can:
 
 **Status:** Under review at ICLR 2026
 
-**Collaborators:** Joint work with researchers from IISc and industry collaborators
+**Collaborators:** Joint work with researchers from IISc and Flipkart, Bengaluru

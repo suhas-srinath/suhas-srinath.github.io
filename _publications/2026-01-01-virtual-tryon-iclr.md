@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-01-01-virtual-tryon-iclr
 excerpt: 'Novel test-time adaptation framework for diffusion-based virtual try-on systems enabling robust performance without access to source domain data.'
 date: 2026-01-01
-venue: 'International Conference on Learning Representations (ICLR) - Under Review'
+venue: 'Under Review - International Conference on Learning Representations (ICLR) 2026'
 slidesurl: ''
 paperurl: ''
-citation: 'Srinath, S., Kiran, M.K., Saha, B., Jain, H., Shaik, K., Chelliah, M., and Prathosh, A.P. (2025). &quot;Source-Free Test-Time Adaptation for Diffusion-based Virtual Try-On.&quot; <i>Under review at ICLR</i>.'
+citation: ''
 ---
 
 **Under Review at ICLR 2026**
@@ -22,4 +22,3 @@ This paper presents a novel framework for source-free test-time adaptation in di
 
 [Paper will be available upon publication]
 
-Recommended citation: Srinath, S., Kiran, M.K., Saha, B., Jain, H., Shaik, K., Chelliah, M., and Prathosh, A.P. (2025). "Source-Free Test-Time Adaptation for Diffusion-based Virtual Try-On." *Under review at International Conference on Learning Representations (ICLR)*.

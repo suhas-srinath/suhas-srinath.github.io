@@ -63,7 +63,7 @@ Selected Research Projects
   * First physics-informed tracking approach using Beer-Lambert law for underwater object tracking
   * Relevant for autonomous underwater vehicles and marine exploration applications
 
-* **Underwater Video Enhancement via Diffusion (UnDIVE)** - WACV 2025 (Accepted)
+* **Underwater Video Enhancement via Diffusion (UnDIVE)** - WACV 2025 
   * Leveraged latent diffusion models for generalized underwater video enhancement
   * Demonstrated strong zero-shot generalization across diverse underwater scenarios (coral reefs, open ocean, turbid water)
   * Deployed end-to-end video processing pipeline handling 30 FPS inference on 1080p videos
@@ -74,9 +74,20 @@ Selected Research Projects
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+I have been a teaching assistant for multiple courses during my PhD at IISc:
+
+* **Jul to Sep 2025** NPTEL - Linear Algebra through Geometry 
+* **Aug to Dec 2024** Deep Generative Models - M. Tech Online course at IISc
+* **Jul to Sep 2021** Matrix Theory
+
+Other courses in IISc I have been a TA for:
+
+* Digital Image Processing (2021, 2022)
+* Advanced Image Processing (2023)
+* Digital Video: Perception and Algorithms (2023)
+* Patter Recognition and Neural Networks (2024)
+* Advanced Deep Representation Learning (2024)  
 
 References
 ======

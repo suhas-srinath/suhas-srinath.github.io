@@ -4,13 +4,13 @@ collection: publications
 permalink: /publication/2026-01-01-manta-wacv
 excerpt: 'Physics-informed framework for underwater object tracking combining dual-positive contrastive learning with Beer-Lambert augmentations and novel evaluation metrics.'
 date: 2026-01-01
-venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) - Under Review'
+venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026'
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2511.23405'
 citation: 'Srinath, S., Jamadagni, H., Chandrasekar, A., and Prathosh, A.P. (2025). &quot;MANTA: Physics-Informed Generalized Underwater Object Tracking.&quot; <i>arXiv preprint arXiv:2511.23405</i>.'
 ---
 
-**Under Review at WACV 2026**
+**Accepted to WACV 2026**
 
 This paper presents MANTA, a physics-informed framework for underwater object tracking that addresses the unique challenges posed by wavelength-dependent attenuation and scattering in underwater environments.
 
