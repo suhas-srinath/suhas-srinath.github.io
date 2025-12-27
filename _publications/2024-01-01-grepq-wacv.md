@@ -7,7 +7,6 @@ date: 2024-01-01
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 slidesurl: ''
 paperurl: ''
-citation: ''
 ---
 
 **Oral Presentation (Top 3% of accepted papers)**

@@ -7,7 +7,7 @@ date: 2025-01-01
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 slidesurl: ''
 paperurl: ''
-citation: ''
+
 ---
 
 This paper presents UnDIVE, a framework for generalized underwater video enhancement that leverages generative priors to handle the diverse degradations present in underwater imagery. The method addresses the unique challenges of underwater video processing caused by wavelength-dependent attenuation and scattering.

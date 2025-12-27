@@ -7,7 +7,6 @@ date: 2026-01-01
 venue: 'Under Review - International Conference on Learning Representations (ICLR) 2026'
 slidesurl: ''
 paperurl: ''
-citation: ''
 ---
 
 **Under Review at ICLR 2026**

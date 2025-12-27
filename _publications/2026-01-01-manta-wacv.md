@@ -7,7 +7,6 @@ date: 2026-01-01
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026'
 slidesurl: ''
 paperurl: ''
-citation: ''
 ---
 
 **Accepted to WACV 2026**
