@@ -1,6 +1,6 @@
 ---
-title: "PhD Research: Self-Supervised Domain Generalization"
-excerpt: "Comprehensive framework for building computer vision models that generalize from seen to unseen domains through self-supervised learning."
+title: "PhD Thesis: Self-Supervised Domain Generalization"
+excerpt: "PhD thesis on building computer vision models that generalize from seen to unseen domains through self-supervised learning."
 collection: portfolio
 ---
 
